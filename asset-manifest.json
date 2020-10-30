@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PlanB007/react/static/css/main.044f35ad.chunk.css",
+    "main.js": "/PlanB007/react/static/js/main.161a3158.chunk.js",
+    "main.js.map": "/PlanB007/react/static/js/main.161a3158.chunk.js.map",
+    "runtime-main.js": "/PlanB007/react/static/js/runtime-main.50e1b6fe.js",
+    "runtime-main.js.map": "/PlanB007/react/static/js/runtime-main.50e1b6fe.js.map",
+    "static/js/2.4e67676e.chunk.js": "/PlanB007/react/static/js/2.4e67676e.chunk.js",
+    "static/js/2.4e67676e.chunk.js.map": "/PlanB007/react/static/js/2.4e67676e.chunk.js.map",
+    "index.html": "/PlanB007/react/index.html",
+    "static/css/main.044f35ad.chunk.css.map": "/PlanB007/react/static/css/main.044f35ad.chunk.css.map",
+    "static/js/2.4e67676e.chunk.js.LICENSE.txt": "/PlanB007/react/static/js/2.4e67676e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e1b6fe.js",
+    "static/js/2.4e67676e.chunk.js",
+    "static/css/main.044f35ad.chunk.css",
+    "static/js/main.161a3158.chunk.js"
+  ]
+}
