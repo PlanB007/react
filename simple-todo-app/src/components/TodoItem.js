@@ -2,7 +2,9 @@ import React from "react"
 
 class TodoItem extends React.Component {
 
-
+  componentWillUnmount() {
+    alert("Item will be delted");
+  }
 
   render(){
 
