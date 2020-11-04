@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 
 //Components
 import TweetInput from './TweetInput'
+import TweetFeed from './TweetFeed'
 
 class Container extends Component {
   render() {
@@ -9,7 +10,7 @@ class Container extends Component {
 
       <div className="feedContainer">
         <TweetInput />
-        
+        <TweetFeed />
       </div>
     )
   }
